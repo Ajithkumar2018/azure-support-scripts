@@ -1,6 +1,7 @@
 <<<<<<< HEAD
 
 # Overview
+# Overview
 This script validates the repo servers connectivity and provides recommendation for the fix based on the error message.
 
 1. Executes yum clean all and yum check-update commands.
